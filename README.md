@@ -44,3 +44,8 @@ libreria bcm2835
 ```
 http://www.airspayce.com/mikem/bcm2835/index.html
 ```
+
+tutorial python
+```
+https://pimylifeup.com/raspberry-pi-rfid-rc522/
+```
